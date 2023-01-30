@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "wink-naive-bayes-text-classifier": "^2.2.1"
+  }
+}
