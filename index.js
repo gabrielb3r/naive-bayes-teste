@@ -73,6 +73,7 @@ nbc.learn( 'Aplicativo ficou péssimo após a última atualização, só trava, 
 nbc.learn( 'O app não funciona, toda vez que abre da erro e fica saindo sozinho, o único aplicativo que dá problema no meu celular.', 'RUIM' );
 nbc.learn( 'Nossa mn, twitter é uma bagunça, sinceramente. E eu acho terrível a ideia de que não dá pra apagar mensagens na dm, sério msm? que tipo de app não tem a opção de eu querer apagar a minha própria mensagem pra todos? mais defeitos que qualidades.', 'RUIM' );
 nbc.learn( 'Não consigo usar o Twitter pelo app. Fica falando que não foi possível atualizar o feed. Não consigo postar nada. E pelo PC funciona tudo normal. Já faz quase uns 2 dias isso.', 'RUIM' );
+nbc.learn( 'atualização horrorosa com esse recurso de visualização, muita informação no feed e muita poluição. Poderiam privar a visualização de novo!', 'RUIM' );
 // Término do treino!!
 nbc.consolidate();
 
